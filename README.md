@@ -54,7 +54,7 @@ Outside of ML, I'm usually listening to music and exploring ideas around intelli
 
 ### 🔨 Currently Building
 
-> Actively working on these — progress is real, not decorative.
+> Actively working on these — 
 
 ```
 PPO & SAC Continuous Control               ████████░░░░░░░░░░░░  40%   in progress
