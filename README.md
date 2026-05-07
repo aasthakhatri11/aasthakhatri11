@@ -21,6 +21,10 @@ Here are some ideas to get you started:
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aastha-khatri-033541292/)
+[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aasthakhatri05@gmail.com)
+[![KIIT Mail](https://img.shields.io/badge/KIIT_Mail-0d1117?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7)](mailto:23052532@kiit.ac.in)
+[![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-0d2818?style=for-the-badge&logo=handshake&logoColor=3fb950)](mailto:aasthakhatri05@gmail.com)
+![Visitor Count](https://komarev.com/ghpvc/?username=aasthakhatri11&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
 
 </div>
 
@@ -30,20 +34,43 @@ Here are some ideas to get you started:
 
 ### About Me
 
-I’m interested in building ML systems that are not just accurate, but understandable.
+I'm interested in building ML systems that are not just accurate, but understandable.
 
 Most of my work revolves around image compression and reinforcement learning — especially problems where models have to make intelligent decisions under real constraints. I enjoy combining classical methods with deep learning instead of relying purely on scale.
 
-Lately, I’ve been drawn to systems that learn directly from raw data and gradually develop structured behavior on their own.
+Lately, I've been drawn to systems that learn directly from raw data and gradually develop structured behavior on their own.
 
-Outside of ML, I’m usually listening to music and exploring ideas around intelligent, adaptive systems.
+Outside of ML, I'm usually listening to music and exploring ideas around intelligent, adaptive systems.
 
 - 🎓 B.Tech CSE · KIIT · Expected 2027
 - 🛰️ R&D · Nebula Space Organisation
 - 🌱 Currently exploring continuous control with PPO & SAC
 - 🎧 Always have music on — it's how I focus best
+- 💼 Open to internship opportunities — feel free to reach out!
 
 <br clear="right"/>
+
+---
+
+### 🔨 Currently Building
+
+> Actively working on these — progress is real, not decorative.
+
+```
+PPO & SAC Continuous Control               ████████░░░░░░░░░░░░  40%   in progress
+DQN Variants — LunarLander-v3              ████████████████░░░░  80%   uploading soon
+MobileNet-SSD - Object Recognition System  ███░░░░░░░░░░░░░░░░░  15%   in progress
+```
+
+---
+
+### 💬 Dev Quote
+
+<div align="center">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
+
+</div>
 
 ---
 
@@ -69,10 +96,10 @@ Outside of ML, I’m usually listening to music and exploring ideas around intel
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1117?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)
 ![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=013243)
 ![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![Scikit--Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logoColor=7A7A7A)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=7A7A7A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-![Gymnasium](https://img.shields.io/badge/Gymnasium-0d1117?style=for-the-badge)
+![Gymnasium](https://img.shields.io/badge/Gymnasium-0d1117?style=for-the-badge&logo=openaigym&logoColor=0081A5)
 
 <br/>
 
@@ -110,10 +137,34 @@ Outside of ML, I’m usually listening to music and exploring ideas around intel
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aasthakhatri11&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=a6adc8&langs_count=6" width="40%"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthakhatri11&bg_color=0d1117&color=a6adc8&line=89b4fa&point=cdd6f4&area=true&area_color=1e2a3a&hide_border=true" width="92%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthakhatri11&bg_color=0d1117&color=a6adc8&line=89b4fa&point=cdd6f4&area=true&area_color=1e2a3a&hide_border=true&days=30" width="92%"/>
 
 </div>
+
+---
+
+### 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aasthakhatri11/aasthakhatri11/output/github-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aasthakhatri11/aasthakhatri11/output/github-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/aasthakhatri11/aasthakhatri11/output/github-snake-dark.svg"/>
+</picture>
+
+</div>
+
+---
+
+### 📫 Reach Me
+
+| | |
+|---|---|
+| 📧 University | [23052532@kiit.ac.in](mailto:23052532@kiit.ac.in) |
+| 📧 Personal | [aasthakhatri05@gmail.com](mailto:aasthakhatri05@gmail.com) |
+| 💼 LinkedIn | [aastha-khatri-033541292](https://www.linkedin.com/in/aastha-khatri-033541292/) |
+| 🌍 Location | India |
+
+> 💼 I'm currently open to internship opportunities. If you're working on something interesting, feel free to reach out!
+
