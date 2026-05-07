@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aastha-khatri-033541292/)
 
 </div>
 
