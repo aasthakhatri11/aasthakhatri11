@@ -57,9 +57,8 @@ Outside of ML, I'm usually listening to music and exploring ideas around intelli
 > Actively working on these — 
 
 ```
-PPO & SAC Continuous Control               ████████░░░░░░░░░░░░  40%   in progress
-DQN Variants — LunarLander-v3              ████████████████░░░░  80%   uploading soon
-MobileNet-SSD - Object Recognition System  ███░░░░░░░░░░░░░░░░░  15%   in progress
+PPO & SAC Continuous Control               ████████░░░░░░░░░░░░  40%  in progress
+MobileNet-SSD - Object Recognition System  ███░░░░░░░░░░░░░░░░░  15%  in progress
 ```
 
 ---
@@ -122,7 +121,8 @@ MobileNet-SSD - Object Recognition System  ███░░░░░░░░░�
 |--------|-------|--------|
 | [🗜️ Importance-Guided Adaptive Image Compression](https://github.com/aasthakhatri11/Importance-Guided-Adaptive-Image-Compression) | UNet · DCT · PyTorch | +0.14 dB PSNR over JPEG · 137 images |
 | [🕹️ Ms. Pac-Man DQN + Ablation Study](https://github.com/aasthakhatri11/MsPacman-DQN-Ablation-Study) | DQN · PyTorch · Atari | 54% reward improvement · frame stacking ablation |
-| 🚀 DQN Variants — LunarLander-v3 *(uploading soon)* | DQN · Double DQN · Dueling | Convergence & stability comparison |
+| [🚀 DQN Variants — LunarLander-v3](https://github.com/aasthakhatri11/YOUR-REPO-NAME) | DQN · Double · Dueling · PyTorch | Vanilla DQN best — Avg100: 233 · 1,500 eps/variant |
+| 🎯 MobileNet-SSD Object Recognition *(in progress)* | MobileNet · SSD · PyTorch · OpenCV | Real-time object detection |
 | 🎮 PPO & SAC Continuous Control *(in progress)* | PyTorch · Policy Gradient | On-policy vs off-policy analysis |
 
 ---
