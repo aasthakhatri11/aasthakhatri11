@@ -43,8 +43,9 @@ Lately, I've been drawn to systems that learn directly from raw data and gradual
 Outside of ML, I'm usually listening to music and exploring ideas around intelligent, adaptive systems.
 
 - 🎓 B.Tech CSE · KIIT · Expected 2027
-- 🛰️ R&D · Nebula Space Organisation
-- 🌱 Currently exploring continuous control with PPO & SAC
+- 🛰️ R&D · Nebula Space Organisation  
+- 🌱 Currently exploring PPO & SAC, AI agents, and full-stack development
+- ☁️ AWS Academy Certified · Cloud Foundations
 - 🎧 Always have music on — it's how I focus best
 - 💼 Open to internship opportunities — feel free to reach out!
 
@@ -110,6 +111,7 @@ MobileNet-SSD - Object Recognition System  ███░░░░░░░░░�
 ![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </div>
 
