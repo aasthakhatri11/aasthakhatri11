@@ -60,6 +60,8 @@ Outside of ML, I'm usually listening to music and exploring ideas around intelli
 ```
 PPO & SAC Continuous Control               ████████░░░░░░░░░░░░  40%  in progress
 MobileNet-SSD - Object Recognition System  ███░░░░░░░░░░░░░░░░░  15%  in progress
+ResearchFlow - AI Research Assistant       ███████████████░░░░░  80%  in progress
+
 ```
 
 ---
