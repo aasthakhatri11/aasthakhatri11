@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/aastha-khatri-033541292/)
 [![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:aasthakhatri05@gmail.com)
-[![KIIT Mail](https://img.shields.io/badge/KIIT_Mail-0d1117?style=for-the-badge&logo=googlescholar&logoColor=7aa2f7)](mailto:23052532@kiit.ac.in)
 [![Open to Internships](https://img.shields.io/badge/Open%20to%20Internships-0d2818?style=for-the-badge&logo=handshake&logoColor=3fb950)](mailto:aasthakhatri05@gmail.com)
 ![Visitor Count](https://komarev.com/ghpvc/?username=aasthakhatri11&style=for-the-badge&color=0d1117&labelColor=161b22&label=PROFILE+VIEWS)
 
