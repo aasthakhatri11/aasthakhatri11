@@ -173,7 +173,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 |---|---|
 | 📧 Email    | [aasthakhatri05@gmail.com](mailto:aasthakhatri05@gmail.com) |
 | 💼 LinkedIn | [aastha-khatri-033541292](https://www.linkedin.com/in/aastha-khatri-033541292/) |
-| 🌍 Location | India |
+| 🌍 Location | Mumbai, India |
 
 > 💼 I'm currently open to internship opportunities. If you're working on something interesting, feel free to reach out!
 
