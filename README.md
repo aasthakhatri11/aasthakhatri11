@@ -171,8 +171,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 
 | | |
 |---|---|
-| 📧 University | [23052532@kiit.ac.in](mailto:23052532@kiit.ac.in) |
-| 📧 Personal | [aasthakhatri05@gmail.com](mailto:aasthakhatri05@gmail.com) |
+| 📧 Email    | [aasthakhatri05@gmail.com](mailto:aasthakhatri05@gmail.com) |
 | 💼 LinkedIn | [aastha-khatri-033541292](https://www.linkedin.com/in/aastha-khatri-033541292/) |
 | 🌍 Location | India |
 
