@@ -41,7 +41,7 @@ Lately, I've been drawn to systems that learn directly from raw data and gradual
 
 Outside of ML, I'm usually listening to music and exploring ideas around intelligent, adaptive systems.
 
-- 🎓 B.Tech CSE · KIIT · 
+- 🎓 B.Tech CSE · KIIT 
 - 🛰️ R&D · Nebula Space Organisation  
 - 🌱 Currently exploring PPO & SAC, AI agents, and full-stack development
 - ☁️ AWS Academy Certified · Cloud Foundations
