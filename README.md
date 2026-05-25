@@ -62,7 +62,7 @@ MobileNet-SSD - Object Recognition System  ███░░░░░░░░░�
 ResearchFlow - AI Research Assistant       ███████████████░░░░░  80%  in progress
 
 ```
-
+<!--
 ---
 
 ### 💬 Dev Quote
@@ -72,6 +72,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&border=true)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+-->
 
 ---
 
