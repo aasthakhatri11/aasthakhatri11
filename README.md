@@ -148,6 +148,19 @@ ResearchFlow - AI Research Assistant       ████████████�
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=aasthakhatri11&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=a6adc8&icon_color=89b4fa&include_all_commits=true&count_private=true" width="60%"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthakhatri11&bg_color=0d1117&color=a6adc8&line=89b4fa&point=cdd6f4&area=true&area_color=1e2a3a&hide_border=true" width="92%"/>
+
+</div>
+
+<!--
+### 📊 Stats
+
+<div align="center">
+
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=aasthakhatri11&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=a6adc8&icon_color=89b4fa&include_all_commits=true&count_private=true" width="47%"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com?user=aasthakhatri11&theme=transparent&hide_border=true&background=00000000&ring=89b4fa&fire=89b4fa&currStreakLabel=a6adc8&sideLabels=cdd6f4&dates=7f849c" width="47%"/>
@@ -157,7 +170,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aasthakhatri11&bg_color=0d1117&color=a6adc8&line=89b4fa&point=cdd6f4&area=true&area_color=1e2a3a&hide_border=true&days=30" width="92%"/>
 
 </div>
-
+-->
 ---
 
 ### 🐍 Contribution Snake
