@@ -51,7 +51,7 @@ Outside of ML, I'm usually listening to music and exploring ideas around intelli
 <br clear="right"/>
 
 ---
-
+<!--
 ### 🔨 Currently Building
 
 > Actively working on these — 
@@ -62,7 +62,6 @@ MobileNet-SSD - Object Recognition System  ███░░░░░░░░░�
 ResearchFlow - AI Research Assistant       ███████████████░░░░░  80%  in progress
 
 ```
-<!--
 ---
 
 ### 💬 Dev Quote
@@ -73,8 +72,6 @@ ResearchFlow - AI Research Assistant       ████████████�
 
 </div>
 -->
-
----
 
 ### 🛠️ Tech Stack
 
@@ -101,6 +98,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0d1117?style=for-the-badge&logo=scikit-learn&logoColor=F7931E)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-0d1117?style=for-the-badge&logo=plotly&logoColor=7A7A7A)
 ![OpenCV](https://img.shields.io/badge/OpenCV-0d1117?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0d1117?style=for-the-badge&logo=openaigym&logoColor=0081A5)
 
 <br/>
@@ -113,6 +111,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 ![Kaggle](https://img.shields.io/badge/Kaggle-0d1117?style=for-the-badge&logo=kaggle&logoColor=20BEFF)
 ![Linux](https://img.shields.io/badge/Linux-0d1117?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=F37626)
+![CUDA](https://img.shields.io/badge/CUDA-0d1117?style=for-the-badge&logo=nvidia&logoColor=76B900)
 ![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 </div>
@@ -181,7 +180,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 </div>
 
 ---
-
+<!--
 ### 📫 Reach Me
 
 | | |
@@ -189,6 +188,9 @@ ResearchFlow - AI Research Assistant       ████████████�
 | 📧 Email    | [aasthakhatri05@gmail.com](mailto:aasthakhatri05@gmail.com) |
 | 💼 LinkedIn | [aastha-khatri-033541292](https://www.linkedin.com/in/aastha-khatri-033541292/) |
 | 🌍 Location | Mumbai, India |
+-->
+<div align="center">
 
-> 💼 I'm currently open to internship opportunities. If you're working on something interesting, feel free to reach out!
+⭐ If any of my projects interest you, feel free to connect or reach out.
 
+</div>
