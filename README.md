@@ -148,7 +148,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aasthakhatri11&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=a6adc8&icon_color=89b4fa&include_all_commits=true&count_private=true" width="60%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=aasthakhatri11&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=89b4fa&text_color=a6adc8&icon_color=89b4fa" width="60%"/>
 
 <br/>
 
