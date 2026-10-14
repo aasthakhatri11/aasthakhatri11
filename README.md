@@ -138,7 +138,7 @@ ResearchFlow - AI Research Assistant       ████████████�
 <img src="gssoc-badge-rising_star.png" width="150"/>
 <img src="gssoc-badge-role_contributor.png" width="150"/>
 
-**Top 2% contributor out of 43,539 participants**
+**Top 3% contributor out of 43,539 participants**
 
 </div>
 
